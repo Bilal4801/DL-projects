@@ -1,2 +1,2 @@
 # DL-Assignment
-Deep learning Assignments
+Deep learning Q2-AI Assignments
